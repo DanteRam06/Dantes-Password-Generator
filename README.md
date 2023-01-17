@@ -6,5 +6,5 @@ It prompts the user of how many characters they want, if they want to use lower,
 
 Using that information a random password is generated.
 
-#Credit
+# Credit
 https://www.youtube.com/watch?v=v2jfGo7ztm8
